@@ -13,3 +13,4 @@ TrainingKit](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL).
 
 LeetCode submissions:
 * [Contains Duplicates](https://leetcode.com/submissions/detail/331058648/)
+* [Add Two Numbers in Linked Lists](https://leetcode.com/submissions/detail/331073834/)
