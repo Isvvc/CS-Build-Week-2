@@ -6,3 +6,10 @@ here as necessary.
 
 For all details about the week, [check out the page in
 TrainingKit](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL).
+
+## Assignments
+
+### Monday
+
+LeetCode submissions:
+* [Contains Duplicates](https://leetcode.com/submissions/detail/331058648/)
